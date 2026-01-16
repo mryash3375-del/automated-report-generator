@@ -1,0 +1,13 @@
+Month,Sales,Expenses,Customers,Region,Category
+January,4500,2300,150,North,Electronics
+February,5200,2100,180,North,Furniture
+March,4800,2500,165,South,Electronics
+April,6100,2800,210,East,Clothing
+May,5900,2600,195,West,Electronics
+June,6500,3000,230,North,Clothing
+July,7000,3200,250,South,Furniture
+August,6800,3100,240,East,Electronics
+September,7200,3300,260,West,Clothing
+October,7500,3500,280,North,Electronics
+November,8000,3700,310,South,Furniture
+December,8500,4000,340,East,Electronics
