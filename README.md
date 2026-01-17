@@ -3,7 +3,8 @@
 **A production-grade data intelligence tool that transforms raw data into actionable insights and professional reports.**
 
 ---
-![Alt text for the image](https://github.com/mryash3375-del/automated-report-generator/issues/1#issue-3820477892)
+![image alt](https://github.com/mryash3375-del/automated-report-generator/issues/1#issue-3820477892)
+
 
 
 ## 📌 Project Overview
